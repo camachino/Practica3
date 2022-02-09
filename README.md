@@ -7,3 +7,5 @@ Entre ellos hay varios tipos de datos a introducir<br>
 Se han creado 2 archivos .css, grid y estilos donde están todos los elementos <br>
 Con el fin de no ensuciar las páginas de código.<br>
 
+Aqui puedes ver el github pages de esta practica
+# https://camachino.github.io/Practica3/
