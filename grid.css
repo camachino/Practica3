@@ -1,3 +1,4 @@
+// Sin uso final debido a actualización de tabla a aspecto deseado mediante bootstrap
 .themed-grid-col {
   padding-top: .75rem;
   padding-bottom: .75rem;
@@ -11,3 +12,4 @@
   background-color: rgba(0, 123, 255, .15);
   border: 1px solid rgba(0, 123, 255, .2);
 }
+
